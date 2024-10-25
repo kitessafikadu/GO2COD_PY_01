@@ -1,5 +1,5 @@
 # GO2COD_PY_01
-**Number Guessing Game**
+** ## Number Guessing Game**
 
 This project is a simple, fun Number Guessing Game, developed as part of my internship at [GO2cod](https://go2cod.com.et/). The goal of the game is for the player to guess a randomly generated number within a given range in as few attempts as possible.
 
